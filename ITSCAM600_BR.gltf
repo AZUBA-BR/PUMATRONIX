@@ -499,7 +499,17 @@
         },
         {
             "mesh" : 54,
-            "name" : "pPlane2_M_PUMATRONIX_0"
+            "name" : "pPlane2_M_PUMATRONIX_0",
+            "scale" : [
+                -1,
+                1,
+                1
+            ],
+            "translation" : [
+                2.447779417037964,
+                0,
+                -121621.7421875
+            ]
         },
         {
             "children" : [
@@ -630,7 +640,18 @@
             "children" : [
                 94
             ],
-            "name" : "RootNode (gltf orientation matrix)"
+            "name" : "RootNode (gltf orientation matrix)",
+            "rotation" : [
+                0,
+                0.3826834559440613,
+                0,
+                0.9238795638084412
+            ],
+            "translation" : [
+                0,
+                0.059893593192100525,
+                0
+            ]
         }
     ],
     "materials" : [
@@ -1786,24 +1807,24 @@
     ],
     "images" : [
         {
-            "mimeType" : "image/jpeg",
+            "mimeType" : "image/png",
             "name" : "M_Lente_baseColor",
-            "uri" : "M_Lente_baseColor.jpg"
+            "uri" : "M_Lente_baseColor.png"
         },
         {
-            "mimeType" : "image/jpeg",
+            "mimeType" : "image/png",
             "name" : "phong2_baseColor",
-            "uri" : "phong2_baseColor.jpg"
+            "uri" : "phong2_baseColor.png"
         },
         {
-            "mimeType" : "image/jpeg",
+            "mimeType" : "image/png",
             "name" : "M_PUMATRONIX_baseColor",
-            "uri" : "M_PUMATRONIX_baseColor.jpg"
+            "uri" : "M_PUMATRONIX_baseColor.png"
         },
         {
-            "mimeType" : "image/jpeg",
+            "mimeType" : "image/png",
             "name" : "phong4_baseColor",
-            "uri" : "phong4_baseColor.jpg"
+            "uri" : "phong4_baseColor.png"
         }
     ],
     "accessors" : [
