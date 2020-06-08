@@ -14548,8 +14548,8 @@
     "images" : [
         {
             "mimeType" : "image/jpeg",
-            "name" : "PUMATRONIX---itscam-600-flyer-A5---V_v3",
-            "uri" : "PUMATRONIX---itscam-600-flyer-A5---V_v3.jpg"
+            "name" : "PUMATRONIX---itscam-600-flyer-A5---V_v3.jpg",
+            "uri" : "PUMATRONIX---itscam-600-flyer-A5---V_v3_jpg.jpg"
         },
         {
             "mimeType" : "image/png",
@@ -31655,7 +31655,7 @@
     "buffers" : [
         {
             "byteLength" : 13754108,
-            "uri" : "ITSCAM600-Exp_BR.bin"
+            "uri" : "ITSCAM600_X_BR.bin"
         }
     ]
 }
